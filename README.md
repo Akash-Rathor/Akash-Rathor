@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Rathor</h1>
 <h3 align="center">A Software Engineer with 6+ years of Extensive experience in Web application development, Desktop application Development, REST API's and Data Science</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akash-Rathor?tab=repositories](https://github.com/Akash-Rathor?tab=repositories)
 
-- 💬 Ask me about **Python, Django, DRF, SQL, Data science, Backend Development etc.**
+- 💬 Ask me about **Python, Django, DRF, SQL, Data science, Full stack software Development etc.**
 
 - 📫 How to reach me **akashrathor096@gmail.com**
 

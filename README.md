@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akash-Rathor?tab=repositories](https://github.com/Akash-Rathor?tab=repositories)
 
-- 💬 Ask me about **Python, Django, DRF, SQL, Data science, Full stack software Development etc.**
+- 💬 Ask me about **Python, Django, DRF, SQL, AWS, React, Javascrip, Redux, Redix, Kafka, Tailwind, Data science, Full stack software Development etc.**
 
 - 📫 How to reach me **akashrathor096@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Rathor</h1>
-<h3 align="center">A Software Engineer with 6+ years of Extensive experience in Web application development, Desktop application Development, REST API's and Data Science</h3>
+<h3 align="center">A Software Engineer with 7+ years of Extensive experience in Web application development, Desktop application Development, REST API's and Data Science</h3>
 
 - 🌱 I’m currently learning **AI**
 

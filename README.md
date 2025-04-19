@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **akashrathor096@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_H-Pe2fBA2UA2ENs7njvu9fxPz4J5xlR/view?usp=sharing]
-(https://drive.google.com/file/d/1_H-Pe2fBA2UA2ENs7njvu9fxPz4J5xlR/view?usp=sharing)
-
 - ⚡ Fun fact **I am a Fitness Freak...**
 
 <h3 align="left">Connect with me:</h3>
